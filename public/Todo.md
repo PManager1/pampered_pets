@@ -10,6 +10,8 @@
 
 > search  "Bring back" and then fix it. 
 
+> Remove the word " locations "
+
 
 Create jobs page with this description: 
 
